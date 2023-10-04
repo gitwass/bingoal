@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.canvas-container {
+    display: flex;
+}
+
+.drawing-canvas {
+    border: 1px solid #000;
+    margin: 10px;
+    cursor: crosshair;
+}

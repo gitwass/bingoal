@@ -1,0 +1,16 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Drawing Collaboration</title>
+</head>
+<body>
+    <div class="canvas-container">
+        <canvas #canvas1 class="drawing-canvas" width="400" height="300"></canvas>
+        <canvas #canvas2  class="drawing-canvas" width="400" height="300"></canvas>
+    </div>
+    <script src="script.js"></script>
+    <button (click)="initializeCanvas()">New</button>
+</body>
+<!--src\app\app.component.html-->

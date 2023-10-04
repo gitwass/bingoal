@@ -1,0 +1,15 @@
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.exe
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.deps.json
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.runtimeconfig.json
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.dll
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.pdb
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.csproj.AssemblyReference.cache
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.AssemblyInfoInputs.cache
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.AssemblyInfo.cs
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.csproj.CoreCompileInputs.cache
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.dll
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\refint\WebSocket.dll
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.pdb
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.genruntimeconfig.cache
+D:\Projects\Bingoal\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\ref\WebSocket.dll

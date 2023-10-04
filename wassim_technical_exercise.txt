@@ -1,0 +1,55 @@
+Drawing Collaboration Exercise
+
+Objective
+=========
+
+Create a web-based drawing collaboration application where two users can draw together in real-time. The application should allow users to input their drawing strokes, send them to the backend, and update the drawing canvas for both users.
+
+Requirements
+============
+
+Frontend
+--------
+
+Create a basic HTML page with two drawing canvases side by side.
+------------------------     ------------------------
+|                      |     |                      |
+|                      |     |                      |
+|                      |     |                      |
+|    Drawing Canvas    |     |    Drawing Canvas    |
+|                      |     |                      |
+|                      |     |                      |
+|                      |     |                      |
+------------------------     ------------------------
+Use JavaScript or TypeScript with a framework like React, Angular, or Vue.js for user interface and real-time updates.
+Implement drawing functionality using HTML5 Canvas or an appropriate library (e.g., Fabric.js).
+Users can draw lines or shapes on their canvas.
+Implement real-time collaboration:
+	When a user draws something, it should be immediately reflected on their canvas.
+	Changes made by one user should be transmitted to the other user's canvas in real-time.
+
+Backend
+-------
+
+Use .NET (C#) to create a simple WebSocket server.
+Handle WebSocket connections from two users, and assign them unique identifiers.
+Implement a message protocol for drawing data:
+	Messages should include information about the drawing strokes (e.g., coordinates, color, line thickness).
+Relay drawing messages between connected clients in real-time.
+
+Instructions
+============
+
+You have access to files that will help to start the project. That includes the frontend setup, with the HTML and CSS for the drawing canvases.
+You should complete the JavaScript/TypeScript and backend implementation for real-time drawing collaboration.
+You should test the application with two separate browser tabs or windows to simulate two users.
+The exercise should focus on the core real-time collaboration functionality, and there's no need for advanced features like saving drawings or user authentication.
+
+Evaluation Criteria
+===================
+
+Successful implementation of real-time drawing collaboration.
+Proper handling of WebSocket connections and messaging.
+Smooth and responsive user interface for drawing.
+Code structure, organization, and cleanliness.
+Error handling and edge cases.

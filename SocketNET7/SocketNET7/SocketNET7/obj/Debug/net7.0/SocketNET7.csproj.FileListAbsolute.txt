@@ -1,0 +1,15 @@
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\bin\Debug\net7.0\SocketNET7.exe
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\bin\Debug\net7.0\SocketNET7.deps.json
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\bin\Debug\net7.0\SocketNET7.runtimeconfig.json
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\bin\Debug\net7.0\SocketNET7.dll
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\bin\Debug\net7.0\SocketNET7.pdb
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\SocketNET7.csproj.AssemblyReference.cache
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\SocketNET7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\SocketNET7.AssemblyInfoInputs.cache
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\SocketNET7.AssemblyInfo.cs
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\SocketNET7.csproj.CoreCompileInputs.cache
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\SocketNET7.dll
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\refint\SocketNET7.dll
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\SocketNET7.pdb
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\SocketNET7.genruntimeconfig.cache
+D:\Projects\Bingoal\SocketNET7\SocketNET7\SocketNET7\obj\Debug\net7.0\ref\SocketNET7.dll
